@@ -1,0 +1,16 @@
+D:\source\C# Practice\VariableArray\bin\Debug\net5.0\VariableArray.exe
+D:\source\C# Practice\VariableArray\bin\Debug\net5.0\VariableArray.deps.json
+D:\source\C# Practice\VariableArray\bin\Debug\net5.0\VariableArray.runtimeconfig.json
+D:\source\C# Practice\VariableArray\bin\Debug\net5.0\VariableArray.runtimeconfig.dev.json
+D:\source\C# Practice\VariableArray\bin\Debug\net5.0\VariableArray.dll
+D:\source\C# Practice\VariableArray\bin\Debug\net5.0\ref\VariableArray.dll
+D:\source\C# Practice\VariableArray\bin\Debug\net5.0\VariableArray.pdb
+D:\source\C# Practice\VariableArray\obj\Debug\net5.0\VariableArray.csproj.AssemblyReference.cache
+D:\source\C# Practice\VariableArray\obj\Debug\net5.0\VariableArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\C# Practice\VariableArray\obj\Debug\net5.0\VariableArray.AssemblyInfoInputs.cache
+D:\source\C# Practice\VariableArray\obj\Debug\net5.0\VariableArray.AssemblyInfo.cs
+D:\source\C# Practice\VariableArray\obj\Debug\net5.0\VariableArray.csproj.CoreCompileInputs.cache
+D:\source\C# Practice\VariableArray\obj\Debug\net5.0\VariableArray.dll
+D:\source\C# Practice\VariableArray\obj\Debug\net5.0\ref\VariableArray.dll
+D:\source\C# Practice\VariableArray\obj\Debug\net5.0\VariableArray.pdb
+D:\source\C# Practice\VariableArray\obj\Debug\net5.0\VariableArray.genruntimeconfig.cache

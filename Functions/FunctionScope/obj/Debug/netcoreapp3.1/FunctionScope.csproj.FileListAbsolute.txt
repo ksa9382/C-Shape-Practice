@@ -1,0 +1,13 @@
+D:\Source Backup\C# Practice\Functions\FunctionScope\bin\Debug\netcoreapp3.1\FunctionScope.exe
+D:\Source Backup\C# Practice\Functions\FunctionScope\bin\Debug\netcoreapp3.1\FunctionScope.deps.json
+D:\Source Backup\C# Practice\Functions\FunctionScope\bin\Debug\netcoreapp3.1\FunctionScope.runtimeconfig.json
+D:\Source Backup\C# Practice\Functions\FunctionScope\bin\Debug\netcoreapp3.1\FunctionScope.runtimeconfig.dev.json
+D:\Source Backup\C# Practice\Functions\FunctionScope\bin\Debug\netcoreapp3.1\FunctionScope.dll
+D:\Source Backup\C# Practice\Functions\FunctionScope\bin\Debug\netcoreapp3.1\FunctionScope.pdb
+D:\Source Backup\C# Practice\Functions\FunctionScope\obj\Debug\netcoreapp3.1\FunctionScope.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source Backup\C# Practice\Functions\FunctionScope\obj\Debug\netcoreapp3.1\FunctionScope.AssemblyInfoInputs.cache
+D:\Source Backup\C# Practice\Functions\FunctionScope\obj\Debug\netcoreapp3.1\FunctionScope.AssemblyInfo.cs
+D:\Source Backup\C# Practice\Functions\FunctionScope\obj\Debug\netcoreapp3.1\FunctionScope.csproj.CoreCompileInputs.cache
+D:\Source Backup\C# Practice\Functions\FunctionScope\obj\Debug\netcoreapp3.1\FunctionScope.dll
+D:\Source Backup\C# Practice\Functions\FunctionScope\obj\Debug\netcoreapp3.1\FunctionScope.pdb
+D:\Source Backup\C# Practice\Functions\FunctionScope\obj\Debug\netcoreapp3.1\FunctionScope.genruntimeconfig.cache

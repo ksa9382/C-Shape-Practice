@@ -1,0 +1,14 @@
+D:\Source Backup\C# Practice\NET API\API Example\TimeSpanDemo\bin\Debug\netcoreapp3.1\TimeSpanDemo.exe
+D:\Source Backup\C# Practice\NET API\API Example\TimeSpanDemo\bin\Debug\netcoreapp3.1\TimeSpanDemo.deps.json
+D:\Source Backup\C# Practice\NET API\API Example\TimeSpanDemo\bin\Debug\netcoreapp3.1\TimeSpanDemo.runtimeconfig.json
+D:\Source Backup\C# Practice\NET API\API Example\TimeSpanDemo\bin\Debug\netcoreapp3.1\TimeSpanDemo.runtimeconfig.dev.json
+D:\Source Backup\C# Practice\NET API\API Example\TimeSpanDemo\bin\Debug\netcoreapp3.1\TimeSpanDemo.dll
+D:\Source Backup\C# Practice\NET API\API Example\TimeSpanDemo\bin\Debug\netcoreapp3.1\TimeSpanDemo.pdb
+D:\Source Backup\C# Practice\NET API\API Example\TimeSpanDemo\obj\Debug\netcoreapp3.1\TimeSpanDemo.csproj.AssemblyReference.cache
+D:\Source Backup\C# Practice\NET API\API Example\TimeSpanDemo\obj\Debug\netcoreapp3.1\TimeSpanDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source Backup\C# Practice\NET API\API Example\TimeSpanDemo\obj\Debug\netcoreapp3.1\TimeSpanDemo.AssemblyInfoInputs.cache
+D:\Source Backup\C# Practice\NET API\API Example\TimeSpanDemo\obj\Debug\netcoreapp3.1\TimeSpanDemo.AssemblyInfo.cs
+D:\Source Backup\C# Practice\NET API\API Example\TimeSpanDemo\obj\Debug\netcoreapp3.1\TimeSpanDemo.csproj.CoreCompileInputs.cache
+D:\Source Backup\C# Practice\NET API\API Example\TimeSpanDemo\obj\Debug\netcoreapp3.1\TimeSpanDemo.dll
+D:\Source Backup\C# Practice\NET API\API Example\TimeSpanDemo\obj\Debug\netcoreapp3.1\TimeSpanDemo.pdb
+D:\Source Backup\C# Practice\NET API\API Example\TimeSpanDemo\obj\Debug\netcoreapp3.1\TimeSpanDemo.genruntimeconfig.cache

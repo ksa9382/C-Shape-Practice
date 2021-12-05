@@ -1,0 +1,14 @@
+D:\Source Backup\C# Practice\Functions\CommandLineArgumentDemo\bin\Debug\netcoreapp3.1\CommandLineArgumentDemo.exe
+D:\Source Backup\C# Practice\Functions\CommandLineArgumentDemo\bin\Debug\netcoreapp3.1\CommandLineArgumentDemo.deps.json
+D:\Source Backup\C# Practice\Functions\CommandLineArgumentDemo\bin\Debug\netcoreapp3.1\CommandLineArgumentDemo.runtimeconfig.json
+D:\Source Backup\C# Practice\Functions\CommandLineArgumentDemo\bin\Debug\netcoreapp3.1\CommandLineArgumentDemo.runtimeconfig.dev.json
+D:\Source Backup\C# Practice\Functions\CommandLineArgumentDemo\bin\Debug\netcoreapp3.1\CommandLineArgumentDemo.dll
+D:\Source Backup\C# Practice\Functions\CommandLineArgumentDemo\bin\Debug\netcoreapp3.1\CommandLineArgumentDemo.pdb
+D:\Source Backup\C# Practice\Functions\CommandLineArgumentDemo\obj\Debug\netcoreapp3.1\CommandLineArgumentDemo.csproj.AssemblyReference.cache
+D:\Source Backup\C# Practice\Functions\CommandLineArgumentDemo\obj\Debug\netcoreapp3.1\CommandLineArgumentDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source Backup\C# Practice\Functions\CommandLineArgumentDemo\obj\Debug\netcoreapp3.1\CommandLineArgumentDemo.AssemblyInfoInputs.cache
+D:\Source Backup\C# Practice\Functions\CommandLineArgumentDemo\obj\Debug\netcoreapp3.1\CommandLineArgumentDemo.AssemblyInfo.cs
+D:\Source Backup\C# Practice\Functions\CommandLineArgumentDemo\obj\Debug\netcoreapp3.1\CommandLineArgumentDemo.csproj.CoreCompileInputs.cache
+D:\Source Backup\C# Practice\Functions\CommandLineArgumentDemo\obj\Debug\netcoreapp3.1\CommandLineArgumentDemo.dll
+D:\Source Backup\C# Practice\Functions\CommandLineArgumentDemo\obj\Debug\netcoreapp3.1\CommandLineArgumentDemo.pdb
+D:\Source Backup\C# Practice\Functions\CommandLineArgumentDemo\obj\Debug\netcoreapp3.1\CommandLineArgumentDemo.genruntimeconfig.cache

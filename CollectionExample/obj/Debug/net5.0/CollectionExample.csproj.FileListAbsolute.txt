@@ -1,0 +1,16 @@
+D:\source\C# Practice\CollectionExample\bin\Debug\net5.0\CollectionExample.exe
+D:\source\C# Practice\CollectionExample\bin\Debug\net5.0\CollectionExample.deps.json
+D:\source\C# Practice\CollectionExample\bin\Debug\net5.0\CollectionExample.runtimeconfig.json
+D:\source\C# Practice\CollectionExample\bin\Debug\net5.0\CollectionExample.runtimeconfig.dev.json
+D:\source\C# Practice\CollectionExample\bin\Debug\net5.0\CollectionExample.dll
+D:\source\C# Practice\CollectionExample\bin\Debug\net5.0\ref\CollectionExample.dll
+D:\source\C# Practice\CollectionExample\bin\Debug\net5.0\CollectionExample.pdb
+D:\source\C# Practice\CollectionExample\obj\Debug\net5.0\CollectionExample.csproj.AssemblyReference.cache
+D:\source\C# Practice\CollectionExample\obj\Debug\net5.0\CollectionExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\C# Practice\CollectionExample\obj\Debug\net5.0\CollectionExample.AssemblyInfoInputs.cache
+D:\source\C# Practice\CollectionExample\obj\Debug\net5.0\CollectionExample.AssemblyInfo.cs
+D:\source\C# Practice\CollectionExample\obj\Debug\net5.0\CollectionExample.csproj.CoreCompileInputs.cache
+D:\source\C# Practice\CollectionExample\obj\Debug\net5.0\CollectionExample.dll
+D:\source\C# Practice\CollectionExample\obj\Debug\net5.0\ref\CollectionExample.dll
+D:\source\C# Practice\CollectionExample\obj\Debug\net5.0\CollectionExample.pdb
+D:\source\C# Practice\CollectionExample\obj\Debug\net5.0\CollectionExample.genruntimeconfig.cache

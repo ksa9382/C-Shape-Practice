@@ -1,0 +1,16 @@
+D:\source\C# Practice\BitwiseOpreator\bin\Debug\net5.0\BitwiseOpreator.exe
+D:\source\C# Practice\BitwiseOpreator\bin\Debug\net5.0\BitwiseOpreator.deps.json
+D:\source\C# Practice\BitwiseOpreator\bin\Debug\net5.0\BitwiseOpreator.runtimeconfig.json
+D:\source\C# Practice\BitwiseOpreator\bin\Debug\net5.0\BitwiseOpreator.runtimeconfig.dev.json
+D:\source\C# Practice\BitwiseOpreator\bin\Debug\net5.0\BitwiseOpreator.dll
+D:\source\C# Practice\BitwiseOpreator\bin\Debug\net5.0\ref\BitwiseOpreator.dll
+D:\source\C# Practice\BitwiseOpreator\bin\Debug\net5.0\BitwiseOpreator.pdb
+D:\source\C# Practice\BitwiseOpreator\obj\Debug\net5.0\BitwiseOpreator.csproj.AssemblyReference.cache
+D:\source\C# Practice\BitwiseOpreator\obj\Debug\net5.0\BitwiseOpreator.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\C# Practice\BitwiseOpreator\obj\Debug\net5.0\BitwiseOpreator.AssemblyInfoInputs.cache
+D:\source\C# Practice\BitwiseOpreator\obj\Debug\net5.0\BitwiseOpreator.AssemblyInfo.cs
+D:\source\C# Practice\BitwiseOpreator\obj\Debug\net5.0\BitwiseOpreator.csproj.CoreCompileInputs.cache
+D:\source\C# Practice\BitwiseOpreator\obj\Debug\net5.0\BitwiseOpreator.dll
+D:\source\C# Practice\BitwiseOpreator\obj\Debug\net5.0\ref\BitwiseOpreator.dll
+D:\source\C# Practice\BitwiseOpreator\obj\Debug\net5.0\BitwiseOpreator.pdb
+D:\source\C# Practice\BitwiseOpreator\obj\Debug\net5.0\BitwiseOpreator.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\source\C# Practice\NamedParameter\bin\Debug\net5.0\NamedParameter.exe
+D:\source\C# Practice\NamedParameter\bin\Debug\net5.0\NamedParameter.deps.json
+D:\source\C# Practice\NamedParameter\bin\Debug\net5.0\NamedParameter.runtimeconfig.json
+D:\source\C# Practice\NamedParameter\bin\Debug\net5.0\NamedParameter.runtimeconfig.dev.json
+D:\source\C# Practice\NamedParameter\bin\Debug\net5.0\NamedParameter.dll
+D:\source\C# Practice\NamedParameter\bin\Debug\net5.0\ref\NamedParameter.dll
+D:\source\C# Practice\NamedParameter\bin\Debug\net5.0\NamedParameter.pdb
+D:\source\C# Practice\NamedParameter\obj\Debug\net5.0\NamedParameter.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\C# Practice\NamedParameter\obj\Debug\net5.0\NamedParameter.AssemblyInfoInputs.cache
+D:\source\C# Practice\NamedParameter\obj\Debug\net5.0\NamedParameter.AssemblyInfo.cs
+D:\source\C# Practice\NamedParameter\obj\Debug\net5.0\NamedParameter.csproj.CoreCompileInputs.cache
+D:\source\C# Practice\NamedParameter\obj\Debug\net5.0\NamedParameter.dll
+D:\source\C# Practice\NamedParameter\obj\Debug\net5.0\ref\NamedParameter.dll
+D:\source\C# Practice\NamedParameter\obj\Debug\net5.0\NamedParameter.pdb
+D:\source\C# Practice\NamedParameter\obj\Debug\net5.0\NamedParameter.genruntimeconfig.cache

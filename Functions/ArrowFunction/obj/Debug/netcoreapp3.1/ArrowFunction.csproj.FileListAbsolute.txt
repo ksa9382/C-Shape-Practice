@@ -1,0 +1,13 @@
+D:\Source Backup\C# Practice\Functions\ArrowFunction\bin\Debug\netcoreapp3.1\ArrowFunction.exe
+D:\Source Backup\C# Practice\Functions\ArrowFunction\bin\Debug\netcoreapp3.1\ArrowFunction.deps.json
+D:\Source Backup\C# Practice\Functions\ArrowFunction\bin\Debug\netcoreapp3.1\ArrowFunction.runtimeconfig.json
+D:\Source Backup\C# Practice\Functions\ArrowFunction\bin\Debug\netcoreapp3.1\ArrowFunction.runtimeconfig.dev.json
+D:\Source Backup\C# Practice\Functions\ArrowFunction\bin\Debug\netcoreapp3.1\ArrowFunction.dll
+D:\Source Backup\C# Practice\Functions\ArrowFunction\bin\Debug\netcoreapp3.1\ArrowFunction.pdb
+D:\Source Backup\C# Practice\Functions\ArrowFunction\obj\Debug\netcoreapp3.1\ArrowFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source Backup\C# Practice\Functions\ArrowFunction\obj\Debug\netcoreapp3.1\ArrowFunction.AssemblyInfoInputs.cache
+D:\Source Backup\C# Practice\Functions\ArrowFunction\obj\Debug\netcoreapp3.1\ArrowFunction.AssemblyInfo.cs
+D:\Source Backup\C# Practice\Functions\ArrowFunction\obj\Debug\netcoreapp3.1\ArrowFunction.csproj.CoreCompileInputs.cache
+D:\Source Backup\C# Practice\Functions\ArrowFunction\obj\Debug\netcoreapp3.1\ArrowFunction.dll
+D:\Source Backup\C# Practice\Functions\ArrowFunction\obj\Debug\netcoreapp3.1\ArrowFunction.pdb
+D:\Source Backup\C# Practice\Functions\ArrowFunction\obj\Debug\netcoreapp3.1\ArrowFunction.genruntimeconfig.cache

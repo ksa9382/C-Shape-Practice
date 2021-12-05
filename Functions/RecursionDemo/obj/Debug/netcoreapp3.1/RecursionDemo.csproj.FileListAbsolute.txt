@@ -1,0 +1,14 @@
+D:\Source Backup\C# Practice\Functions\RecursionDemo\bin\Debug\netcoreapp3.1\RecursionDemo.exe
+D:\Source Backup\C# Practice\Functions\RecursionDemo\bin\Debug\netcoreapp3.1\RecursionDemo.deps.json
+D:\Source Backup\C# Practice\Functions\RecursionDemo\bin\Debug\netcoreapp3.1\RecursionDemo.runtimeconfig.json
+D:\Source Backup\C# Practice\Functions\RecursionDemo\bin\Debug\netcoreapp3.1\RecursionDemo.runtimeconfig.dev.json
+D:\Source Backup\C# Practice\Functions\RecursionDemo\bin\Debug\netcoreapp3.1\RecursionDemo.dll
+D:\Source Backup\C# Practice\Functions\RecursionDemo\bin\Debug\netcoreapp3.1\RecursionDemo.pdb
+D:\Source Backup\C# Practice\Functions\RecursionDemo\obj\Debug\netcoreapp3.1\RecursionDemo.csproj.AssemblyReference.cache
+D:\Source Backup\C# Practice\Functions\RecursionDemo\obj\Debug\netcoreapp3.1\RecursionDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source Backup\C# Practice\Functions\RecursionDemo\obj\Debug\netcoreapp3.1\RecursionDemo.AssemblyInfoInputs.cache
+D:\Source Backup\C# Practice\Functions\RecursionDemo\obj\Debug\netcoreapp3.1\RecursionDemo.AssemblyInfo.cs
+D:\Source Backup\C# Practice\Functions\RecursionDemo\obj\Debug\netcoreapp3.1\RecursionDemo.csproj.CoreCompileInputs.cache
+D:\Source Backup\C# Practice\Functions\RecursionDemo\obj\Debug\netcoreapp3.1\RecursionDemo.dll
+D:\Source Backup\C# Practice\Functions\RecursionDemo\obj\Debug\netcoreapp3.1\RecursionDemo.pdb
+D:\Source Backup\C# Practice\Functions\RecursionDemo\obj\Debug\netcoreapp3.1\RecursionDemo.genruntimeconfig.cache

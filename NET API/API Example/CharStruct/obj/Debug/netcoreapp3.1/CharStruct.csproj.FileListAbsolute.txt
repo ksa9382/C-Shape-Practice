@@ -1,0 +1,14 @@
+D:\Source Backup\C# Practice\NET API\API Example\CharStruct\bin\Debug\netcoreapp3.1\CharStruct.exe
+D:\Source Backup\C# Practice\NET API\API Example\CharStruct\bin\Debug\netcoreapp3.1\CharStruct.deps.json
+D:\Source Backup\C# Practice\NET API\API Example\CharStruct\bin\Debug\netcoreapp3.1\CharStruct.runtimeconfig.json
+D:\Source Backup\C# Practice\NET API\API Example\CharStruct\bin\Debug\netcoreapp3.1\CharStruct.runtimeconfig.dev.json
+D:\Source Backup\C# Practice\NET API\API Example\CharStruct\bin\Debug\netcoreapp3.1\CharStruct.dll
+D:\Source Backup\C# Practice\NET API\API Example\CharStruct\bin\Debug\netcoreapp3.1\CharStruct.pdb
+D:\Source Backup\C# Practice\NET API\API Example\CharStruct\obj\Debug\netcoreapp3.1\CharStruct.csproj.AssemblyReference.cache
+D:\Source Backup\C# Practice\NET API\API Example\CharStruct\obj\Debug\netcoreapp3.1\CharStruct.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source Backup\C# Practice\NET API\API Example\CharStruct\obj\Debug\netcoreapp3.1\CharStruct.AssemblyInfoInputs.cache
+D:\Source Backup\C# Practice\NET API\API Example\CharStruct\obj\Debug\netcoreapp3.1\CharStruct.AssemblyInfo.cs
+D:\Source Backup\C# Practice\NET API\API Example\CharStruct\obj\Debug\netcoreapp3.1\CharStruct.csproj.CoreCompileInputs.cache
+D:\Source Backup\C# Practice\NET API\API Example\CharStruct\obj\Debug\netcoreapp3.1\CharStruct.dll
+D:\Source Backup\C# Practice\NET API\API Example\CharStruct\obj\Debug\netcoreapp3.1\CharStruct.pdb
+D:\Source Backup\C# Practice\NET API\API Example\CharStruct\obj\Debug\netcoreapp3.1\CharStruct.genruntimeconfig.cache

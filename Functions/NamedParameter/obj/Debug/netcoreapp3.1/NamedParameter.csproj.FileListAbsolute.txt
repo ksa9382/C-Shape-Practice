@@ -1,0 +1,14 @@
+D:\Source Backup\C# Practice\Functions\NamedParameter\bin\Debug\netcoreapp3.1\NamedParameter.exe
+D:\Source Backup\C# Practice\Functions\NamedParameter\bin\Debug\netcoreapp3.1\NamedParameter.deps.json
+D:\Source Backup\C# Practice\Functions\NamedParameter\bin\Debug\netcoreapp3.1\NamedParameter.runtimeconfig.json
+D:\Source Backup\C# Practice\Functions\NamedParameter\bin\Debug\netcoreapp3.1\NamedParameter.runtimeconfig.dev.json
+D:\Source Backup\C# Practice\Functions\NamedParameter\bin\Debug\netcoreapp3.1\NamedParameter.dll
+D:\Source Backup\C# Practice\Functions\NamedParameter\bin\Debug\netcoreapp3.1\NamedParameter.pdb
+D:\Source Backup\C# Practice\Functions\NamedParameter\obj\Debug\netcoreapp3.1\NamedParameter.csproj.AssemblyReference.cache
+D:\Source Backup\C# Practice\Functions\NamedParameter\obj\Debug\netcoreapp3.1\NamedParameter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source Backup\C# Practice\Functions\NamedParameter\obj\Debug\netcoreapp3.1\NamedParameter.AssemblyInfoInputs.cache
+D:\Source Backup\C# Practice\Functions\NamedParameter\obj\Debug\netcoreapp3.1\NamedParameter.AssemblyInfo.cs
+D:\Source Backup\C# Practice\Functions\NamedParameter\obj\Debug\netcoreapp3.1\NamedParameter.csproj.CoreCompileInputs.cache
+D:\Source Backup\C# Practice\Functions\NamedParameter\obj\Debug\netcoreapp3.1\NamedParameter.dll
+D:\Source Backup\C# Practice\Functions\NamedParameter\obj\Debug\netcoreapp3.1\NamedParameter.pdb
+D:\Source Backup\C# Practice\Functions\NamedParameter\obj\Debug\netcoreapp3.1\NamedParameter.genruntimeconfig.cache

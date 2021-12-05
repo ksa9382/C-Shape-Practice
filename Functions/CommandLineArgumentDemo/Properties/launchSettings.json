@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CommandLineArgumentDemo": {
+      "commandName": "Project",
+      "commandLineArgs": "Hello World"
+    }
+  }
+}

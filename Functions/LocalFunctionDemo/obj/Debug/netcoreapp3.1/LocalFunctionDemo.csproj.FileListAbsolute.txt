@@ -1,0 +1,13 @@
+D:\Source Backup\C# Practice\Functions\LocalFunctionDemo\bin\Debug\netcoreapp3.1\LocalFunctionDemo.exe
+D:\Source Backup\C# Practice\Functions\LocalFunctionDemo\bin\Debug\netcoreapp3.1\LocalFunctionDemo.deps.json
+D:\Source Backup\C# Practice\Functions\LocalFunctionDemo\bin\Debug\netcoreapp3.1\LocalFunctionDemo.runtimeconfig.json
+D:\Source Backup\C# Practice\Functions\LocalFunctionDemo\bin\Debug\netcoreapp3.1\LocalFunctionDemo.runtimeconfig.dev.json
+D:\Source Backup\C# Practice\Functions\LocalFunctionDemo\bin\Debug\netcoreapp3.1\LocalFunctionDemo.dll
+D:\Source Backup\C# Practice\Functions\LocalFunctionDemo\bin\Debug\netcoreapp3.1\LocalFunctionDemo.pdb
+D:\Source Backup\C# Practice\Functions\LocalFunctionDemo\obj\Debug\netcoreapp3.1\LocalFunctionDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source Backup\C# Practice\Functions\LocalFunctionDemo\obj\Debug\netcoreapp3.1\LocalFunctionDemo.AssemblyInfoInputs.cache
+D:\Source Backup\C# Practice\Functions\LocalFunctionDemo\obj\Debug\netcoreapp3.1\LocalFunctionDemo.AssemblyInfo.cs
+D:\Source Backup\C# Practice\Functions\LocalFunctionDemo\obj\Debug\netcoreapp3.1\LocalFunctionDemo.csproj.CoreCompileInputs.cache
+D:\Source Backup\C# Practice\Functions\LocalFunctionDemo\obj\Debug\netcoreapp3.1\LocalFunctionDemo.dll
+D:\Source Backup\C# Practice\Functions\LocalFunctionDemo\obj\Debug\netcoreapp3.1\LocalFunctionDemo.pdb
+D:\Source Backup\C# Practice\Functions\LocalFunctionDemo\obj\Debug\netcoreapp3.1\LocalFunctionDemo.genruntimeconfig.cache

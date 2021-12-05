@@ -1,0 +1,16 @@
+D:\source\C# Practice\OutVariable\bin\Debug\net5.0\OutVariable.exe
+D:\source\C# Practice\OutVariable\bin\Debug\net5.0\OutVariable.deps.json
+D:\source\C# Practice\OutVariable\bin\Debug\net5.0\OutVariable.runtimeconfig.json
+D:\source\C# Practice\OutVariable\bin\Debug\net5.0\OutVariable.runtimeconfig.dev.json
+D:\source\C# Practice\OutVariable\bin\Debug\net5.0\OutVariable.dll
+D:\source\C# Practice\OutVariable\bin\Debug\net5.0\ref\OutVariable.dll
+D:\source\C# Practice\OutVariable\bin\Debug\net5.0\OutVariable.pdb
+D:\source\C# Practice\OutVariable\obj\Debug\net5.0\OutVariable.csproj.AssemblyReference.cache
+D:\source\C# Practice\OutVariable\obj\Debug\net5.0\OutVariable.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\C# Practice\OutVariable\obj\Debug\net5.0\OutVariable.AssemblyInfoInputs.cache
+D:\source\C# Practice\OutVariable\obj\Debug\net5.0\OutVariable.AssemblyInfo.cs
+D:\source\C# Practice\OutVariable\obj\Debug\net5.0\OutVariable.csproj.CoreCompileInputs.cache
+D:\source\C# Practice\OutVariable\obj\Debug\net5.0\OutVariable.dll
+D:\source\C# Practice\OutVariable\obj\Debug\net5.0\ref\OutVariable.dll
+D:\source\C# Practice\OutVariable\obj\Debug\net5.0\OutVariable.pdb
+D:\source\C# Practice\OutVariable\obj\Debug\net5.0\OutVariable.genruntimeconfig.cache
